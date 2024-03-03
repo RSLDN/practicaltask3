@@ -1,0 +1,2 @@
+varialbe56 = input("Enter your name: ")
+print(name + "is so over this")
