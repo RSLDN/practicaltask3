@@ -1,2 +1,2 @@
-varialbe56 = input("Enter your name: ")
+varialbe_56 = input("Enter your name: ") #updated synatax
 print(name + "is so over this")
