@@ -1,5 +1,10 @@
-Variable_1=35
-Vairable_2=5
+person_1_age = 35  
+person_2_age = 5
 
-variable_3= Input("How old are you")
-Print(Person 1 is 35 years old and person 2 is 5 years old that means combined we are, Variable1+Variable2+Variable3 years old)
+user_age = int(input("How old are you? "))
+
+total_age = person_1_age + person_2_age + user_age
+
+print(f"Person 1 is {person_1_age} years old and Person 2 is {person_2_age} years old. That means combined we are {total_age} years old.")
+
+#improved syntax fixing the error
