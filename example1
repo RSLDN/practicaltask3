@@ -1,2 +1,4 @@
-varialbe_56 = input("Enter your name: ") #updated synatax
-print(name + "is so over this")
+variable_56 = input("Enter your name: ") # updated syntax
+print(variable_56 + " is so over this")  # corrected variable name and added space before "is"
+
+
